@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/phptpolnep/static/css/main.09c05f1e.css",
+    "main.js": "/phptpolnep/static/js/main.bedfcbaa.js",
+    "static/js/453.e5258c92.chunk.js": "/phptpolnep/static/js/453.e5258c92.chunk.js",
+    "static/media/kolom14.png": "/phptpolnep/static/media/kolom14.03da16bbce3d793f66b8.png",
+    "static/media/kolom16.png": "/phptpolnep/static/media/kolom16.82b3bc5a69ebcfebfae9.png",
+    "static/media/kolom7.png": "/phptpolnep/static/media/kolom7.7858da377647e9bfa9bc.png",
+    "static/media/kolom8.png": "/phptpolnep/static/media/kolom8.aea5c8ddc2fd0228228d.png",
+    "static/media/kolom18.png": "/phptpolnep/static/media/kolom18.e016850b5a710aa56bea.png",
+    "static/media/kolom6.png": "/phptpolnep/static/media/kolom6.d44fb106fef7d44fb7bf.png",
+    "static/media/kolom15.png": "/phptpolnep/static/media/kolom15.cef3de90eb5180602072.png",
+    "static/media/jurusan-tp.png": "/phptpolnep/static/media/jurusan-tp.138f6f39c3518a79c1e5.png",
+    "static/media/kolom12.png": "/phptpolnep/static/media/kolom12.b1158d018d70c3707689.png",
+    "static/media/kolom9.png": "/phptpolnep/static/media/kolom9.f85e630ecfd1feb422d3.png",
+    "static/media/kolom4.png": "/phptpolnep/static/media/kolom4.0412a68483cdd1979b55.png",
+    "static/media/kolom13.png": "/phptpolnep/static/media/kolom13.ced4b26db01f2b7bc9fa.png",
+    "static/media/kolom5.png": "/phptpolnep/static/media/kolom5.44b062ea24ffcdec1494.png",
+    "static/media/kolom3.png": "/phptpolnep/static/media/kolom3.7553810426f223fb3ed8.png",
+    "static/media/kolom1.png": "/phptpolnep/static/media/kolom1.76424aa8b9257ddd7fed.png",
+    "static/media/kolom17.png": "/phptpolnep/static/media/kolom17.1553a859261943379390.png",
+    "static/media/kolom11.png": "/phptpolnep/static/media/kolom11.1a2b1aace88f44046d04.png",
+    "static/media/kolom2.png": "/phptpolnep/static/media/kolom2.0a4fb0f60d59dc8ff732.png",
+    "static/media/web-logo3.png": "/phptpolnep/static/media/web-logo3.587228a6d112f8796be1.png",
+    "static/media/kolom10.png": "/phptpolnep/static/media/kolom10.b27e25e5cd0583c9da13.png",
+    "index.html": "/phptpolnep/index.html",
+    "main.09c05f1e.css.map": "/phptpolnep/static/css/main.09c05f1e.css.map",
+    "main.bedfcbaa.js.map": "/phptpolnep/static/js/main.bedfcbaa.js.map",
+    "453.e5258c92.chunk.js.map": "/phptpolnep/static/js/453.e5258c92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c05f1e.css",
+    "static/js/main.bedfcbaa.js"
+  ]
+}
